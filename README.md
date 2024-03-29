@@ -10,7 +10,7 @@ THE EKS DIRECTORY
 
 The EKS directory is the first directory on the repository and it contains all our code in Terraform to spin up our EKS cluster.. but not just the EKS cluster.
 
-we are also setting up the environment where the EKS cluster will run. For instance, we are creating the VPC, subnets, internet gateway, EKS roles, node group roles, and also a bastion host if you choose to use the private instance..
+we are also setting up the environment where the EKS cluster will run. For instance, we are creating the VPC, subnets, internet gateway, EKS roles, node group roles, and also a bastion host if you choose to use the private instance.
 THE KUBERNETES DIRECTORY
 
 Now this directory is split into four subdirectorys:
